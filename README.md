@@ -1,0 +1,6 @@
+- {
+- 👋 Hi, I’m Pedro;
+- 🌱 I’m currently in the second semester of Computer Science;
+- 💞️ I’m looking to collaborate on projects and the community;
+- 📫 Email: pedrorfrosi@gmail.com;
+- }
