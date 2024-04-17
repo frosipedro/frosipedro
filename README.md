@@ -1,6 +1,6 @@
 - {
 - 👋 Hi, I’m Pedro;
-- 🌱 I’m currently in the fourth semester of Computer Science;
+- 🌱 I’m currently in the fifth semester of Computer Science;
 - 💞️ I’m looking to collaborate on projects and the community;
-- 📫 Email: pedrorfrosi@gmail.com;
+- 📫 Email: pedro.frosi@sou.unijui.edu.br;
 - }
