@@ -7,17 +7,17 @@
 
 ---
 
-## 🌱 About Me
+## About Me
 
--   🎓 Currently in the 7th semester of my **Computer Science** degree at UNIJUÍ.
--   💡 Looking for opportunities to **collaborate on projects** and learn from the dev community.
--   🚀 Interested in areas like **Web Development (Back), Artificial Intelligence, Cybersecurity, Game Development, Machine Learning, Cloud, etc.**
--   🧠 Always seeking knowledge, not just in tech, but across various subjects - I love a good conversation!
--   🎯 My goals include personal and professional growth, becoming a better developer, and contributing positively to teams and projects.
+-   Currently in the 8th semester of my **Computer Science** degree at UNIJUÍ.
+-   Looking for opportunities to **collaborate on projects** and learn from the dev community.
+-   Interested in areas like **Web Development (Back), Artificial Intelligence, Game Development, Machine Learning, Cloud, etc.**
+-   Always seeking knowledge, not just in tech, but across various subjects - I love a good conversation!
+-   My goals include personal and professional growth, becoming a better developer, and contributing positively to teams and projects.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="left"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </p>
 
@@ -32,7 +32,7 @@
 <p align="left"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/> </p>
 ---
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frosipedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -41,7 +41,7 @@
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 Let's connect and exchange ideas!
 
